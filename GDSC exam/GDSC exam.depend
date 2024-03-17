@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1710642090 source:c:\users\hamad\desktop\gdsc exam\main.c
+	"project.h"
+
+1710640162 c:\users\hamad\desktop\gdsc exam\project.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1710641589 source:c:\users\hamad\desktop\gdsc exam\project.c
+	"project.h"
+
